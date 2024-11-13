@@ -58,7 +58,7 @@ resto_7 = {
     "name": "Mexikombi",
     "owner": "N/A",
     "cuisine type": "Food Trucks",
-    "reservation": "no",
+    "reservation": "No",
 }
 
 # Resto 8
